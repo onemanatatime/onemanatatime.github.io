@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 name: Aluna Cryptocurrency Trading
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
